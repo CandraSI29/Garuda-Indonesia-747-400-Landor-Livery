@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+    <sim>
+        <model>
+            <livery>
+                <name type="string">Garuda Indonesia PK-GSG 1990-2000s </name>
+                <texture>Liveries/PK-GSG_landor.png</texture>
+				<livery-change>1</livery-change>
+            </livery>
+        </model>
+    </sim>
+
+</PropertyList> 
